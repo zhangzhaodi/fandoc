@@ -35,6 +35,6 @@ window.onload= function(){
 		    swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
 		}
 	})
-	$(".cont").height(document.body.clientHeight);
 }
+$(".cont").height(document.body.clientHeight);
 
