@@ -286,12 +286,7 @@ body{
     75% {transform: rotate(270deg)}	
     100%{transform: rotate(360deg)}
 }
-@-webkit-keyframes rotate2{
-    0% {transform: rotate(90deg)}
-    50% {transform: rotate(180deg)}
-    75% {transform: rotate(270deg)}
-    100%{transform: rotate(360deg)}
-}
+
 
 
 
@@ -614,4 +609,10 @@ body{
 	left: 50%;
 	margin-left: -2rem;
 	top: 5rem;
+}
+@-webkit-keyframes rotate2{
+    0% {transform: rotate(90deg)}
+    50% {transform: rotate(180deg)}
+    75% {transform: rotate(270deg)}
+    100%{transform: rotate(360deg)}
 }
