@@ -7,7 +7,8 @@ window.onload= function(){
             document.documentElement.style.fontSize = winW / desW * 100 + 'px';
         }
     })();
-
+	var wh =  window.screen.height;
+	$(".cont").height(wh);
 
 	var mySwiper = new Swiper('.swiper-container', {
 		direction : 'vertical',
