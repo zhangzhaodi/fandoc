@@ -24,6 +24,7 @@ body{
 .header{
 	width: 100%;
 	height: 1rem;
+	display: none;
 	background: #333;
 }
 .header .header-tit{
