@@ -266,7 +266,7 @@ body{
 .s2-6{
 	width: 1.5rem;
 	height: 1.5rem;
-	top: 8.5rem;
+	bottom: 0.5rem;
 	left: 0;
 	-webkit-animation: rotate1 2s linear infinite;
     animation: rotate1 2s linear infinite;
@@ -276,6 +276,7 @@ body{
 	height: 0.9rem;
 	top: 8.5rem;
 	left: 1.5rem;
+	display:none;
 }
 .s-rotate img{
 	-webkit-animation: rotate2 1.5s linear infinite;
