@@ -36,7 +36,9 @@ body{
 	color: #fff;
 	font-family: '楷体'
 }
-
+.cont{
+	overflow:hidden;
+}
 .swiper-slide{
 	width: 100%;
 	height: 100%;
